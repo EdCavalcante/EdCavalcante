@@ -12,8 +12,8 @@ Gosto de aprender com a prática e compartilhar meu progresso.
 
 ## Tecnologias e Ferramentas
 
-- HTML5
-- CSS3 (incluindo Flexbox e responsividade)
+- HTML
+- CSS (incluindo Flexbox e responsividade)
 - JavaScript (funções, listas e lógica)
 - Java (orientação a objetos e fundamentos)
 
